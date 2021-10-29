@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kc733
 - 👀 I’m interested in Software Development, Cyber Security, Art.
-- 🌱 I’m currently learning Python and JS.
+- 🌱 I’m currently learning Python and Java.
 
 <!---
 kc733/kc733 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
