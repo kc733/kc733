@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kc733 (Alexander Fomin)
+- 👀 I’m interested in Software Development, Web Development, Cyber Security and Art.
+- 🧸 I’m currently learning JS, C# and C++
+- 💻 My skills are: Python, Java, HTML5 and CSS
+- 🖌 I am also a digital painter: https://www.deviantart.com/kc733/gallery
