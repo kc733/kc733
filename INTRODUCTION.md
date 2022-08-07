@@ -3,3 +3,4 @@
 - 🧸 I’m currently learning JS, C# and C++
 - 💻 My skills are: Python, Java, HTML5 and CSS
 - 🖌 I am also a digital painter: https://www.deviantart.com/kc733/gallery
+- 📫 How to reach me: fominalexanderark@gmail.com
